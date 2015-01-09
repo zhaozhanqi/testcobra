@@ -20,15 +20,15 @@ Available Commands:
 Use "app help [command]" for more information about that command.
 
 
-$ ./testcobra print test
-Print: test
+    $ ./testcobra print test
+      Print: test
 
 
-$ ./testcobra echo times --times=2 hello
-Echo: hello
-Echo: hello
+    $ ./testcobra echo times --times=2 hello
+    Echo: hello
+    Echo: hello
 
-$ ./testcobra echo times -t 2 hello
-Echo: hello
-Echo: hello
+    $ ./testcobra echo times -t 2 hello
+    Echo: hello
+    Echo: hello
 
