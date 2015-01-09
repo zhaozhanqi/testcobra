@@ -1,7 +1,7 @@
 # testcobra
 
 use go build the code
-#go install testcorba.go
+$go install testcorba.go
 
 run the execute file
 
