@@ -1,20 +1,20 @@
 # testcobra
 
 use go build the code
-$go install testcorba.go
+    $go install testcorba.go
 
 run the execute file
 
-$ ./testcobra 
+    $ ./testcobra 
 
 
-Usage: 
-  app [command]
+    Usage: 
+    app [command]
 
-Available Commands: 
-  print [string to print]   Print anything to the screen
-  echo [string to echo]     Echo anything to the screen
-  help [command]            Help about any command
+    Available Commands: 
+    print [string to print]   Print anything to the screen
+    echo [string to echo]     Echo anything to the screen
+    help [command]            Help about any command
 
 
 Use "app help [command]" for more information about that command.
